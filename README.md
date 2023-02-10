@@ -1,4 +1,4 @@
-Role Name
+clickhouse-role
 =========
 
 A brief description of the role goes here.
